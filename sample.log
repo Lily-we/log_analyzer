@@ -1,0 +1,5 @@
+2026-01-08 12:45:33 INFO 192.168.1.10 User logged in
+2026-01-08 12:46:01 ERROR 10.0.0.5 Database connection failed
+2026-01-08 12:46:05 WARNING 192.168.1.10 Disk usage high
+2026-01-08 12:47:10 ERROR 10.0.0.5 Database connection failed
+2026-01-08 12:48:00 INFO 172.16.0.3 Health check OK
